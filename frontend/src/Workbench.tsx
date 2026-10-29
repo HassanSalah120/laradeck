@@ -5,6 +5,7 @@ import AuditPanel, {AuditSetupPanel} from "./AuditPanel";
 import DependencySettings from "./DependencySettings";
 import PhpRuntimePanel from "./PhpRuntimePanel";
 import CommandPalette from "./CommandPalette";
+import brandLogo from "./assets/images/logo.svg";
 import { useCallback, useEffect, useRef, useState, Component, ErrorInfo, ReactNode } from "react";
 import {
   CancelClose,
@@ -828,10 +829,8 @@ export default function Workbench() {
   return (
     <div className="app-shell">
       <aside className="sidebar" inert={closeCount !== null}>
-        <div className="brand">
-          <span className="brand-mark" style={{ background: "linear-gradient(135deg, #6366f1, #a855f7)", color: "#fff", fontWeight: 800 }}>
-            L<span>_</span>
-          </span>
+        <div className="brand" style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+          <img src={brandLogo} alt="LaraDeck" style={{ width: "30px", height: "30px", borderRadius: "7px", boxShadow: "0 0 12px rgba(255, 45, 32, 0.35)" }} />
           <div>
             LaraDeck<small>MISSION CONTROL FOR LARAVEL</small>
           </div>

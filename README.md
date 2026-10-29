@@ -1,8 +1,12 @@
 <div align="center">
 
-# LaraDeck
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/images/laradeck-banner.svg">
+  <img src="docs/images/laradeck-banner.svg" alt="LaraDeck — Modern Mission Control &amp; Desktop Workbench for Laravel" width="100%" />
+</picture>
 
-### Modern Mission Control & Desktop Workbench for Laravel
+<br/>
+<br/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6.svg?logo=windows)](https://github.com/HassanSalah120/laradeck)
