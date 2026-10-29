@@ -217,6 +217,34 @@ LaraDeck can be executed in headless CLI mode or as an MCP server:
 
 ---
 
+## 🎨 Brand Identity
+
+The official LaraDeck identity combines a bold isometric **L** monogram with an offset floating workspace deck, separated by a crisp negative-space channel:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" style="padding: 24px;">
+        <img src="docs/images/laradeck-mark-red.svg" width="100" alt="LaraDeck Red Mark" /><br/><br/>
+        <b>Primary Mark (Red)</b><br/>
+        <code>#F73931</code>
+      </td>
+      <td align="center" width="33%" style="padding: 24px;">
+        <img src="docs/images/laradeck-mark-black.svg" width="100" alt="LaraDeck Black Mark" /><br/><br/>
+        <b>Monochrome (Black)</b><br/>
+        <code>#121213</code>
+      </td>
+      <td align="center" width="33%" style="padding: 24px;">
+        <img src="docs/images/laradeck-app-badge.svg" width="100" alt="LaraDeck App Icon Badge" /><br/><br/>
+        <b>App Icon Badge</b><br/>
+        <code>#1C1C1C Squircle</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📁 Repository Structure
 
 ```

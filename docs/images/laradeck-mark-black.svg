@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Upper L Deck Structure -->
+  <path d="M 80 87 L 179 50 L 179 269 L 285 228 L 427 280 L 219 375 L 80 311 Z" fill="#121213" />
+  <!-- Lower Offset Deck Plate -->
+  <path d="M 80 340 L 219 408 L 432 351 L 219 461 L 80 389 Z" fill="#121213" />
+</svg>
